@@ -1,1 +1,1 @@
-![Run: Platformer Game](screenshot.png)
+![Run: Platformer Game](screenshot.PNG)
